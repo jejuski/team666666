@@ -1,0 +1,76 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "nick": "json-server를 배워봅시다.",
+      "title": "json-server",
+      "body": "json-server를 배워봅시다."
+    },
+    {
+      "title": "asda",
+      "nick": "sad",
+      "body": "sdasd",
+      "id": 2
+    },
+    {
+      "title": "sad",
+      "nick": "da",
+      "body": "ad",
+      "id": 3
+    },
+    {
+      "title": "",
+      "nick": "",
+      "body": "",
+      "id": 4
+    },
+    {
+      "title": "asda",
+      "nick": "sda",
+      "body": "sda",
+      "id": 5
+    },
+    {
+      "title": "asd",
+      "nick": "asd",
+      "body": "asd",
+      "id": 6
+    },
+    {
+      "title": "sad",
+      "nick": "sad",
+      "body": "asd",
+      "id": 7
+    },
+    {
+      "title": "asd",
+      "nick": "ads",
+      "body": "asd",
+      "id": 8
+    },
+    {
+      "title": "",
+      "nick": "",
+      "body": "",
+      "id": 9
+    },
+    {
+      "title": "아이디",
+      "nick": "닉네임",
+      "body": "내용",
+      "id": 10
+    },
+    {
+      "title": "화이팅",
+      "nick": "유선님",
+      "body": "곽현님도!",
+      "id": 11
+    },
+    {
+      "title": "asda",
+      "nick": "asd",
+      "body": "asa",
+      "id": 12
+    }
+  ]
+}
